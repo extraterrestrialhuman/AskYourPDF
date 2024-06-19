@@ -1,0 +1,14 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore text files with sensitive information
+*.txt
+
+# Ignore PDF files (assuming they are generated or not necessary)
+*.pdf
+
+# Ignore the uploads directory
+uploads/
