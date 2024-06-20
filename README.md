@@ -24,16 +24,20 @@ Deployment:
 
 Installation Instructions:
 
-1. Clone the repository from GitHub: [Repository URL]
+1. Clone the repository from GitHub: https://github.com/extraterrestrialhuman/AskYourPDF
 2. Navigate to the project directory. (cd 'directory-address')
 3. Create a virtual environment (optional but recommended):
+   
     python -m venv venv
+   
     venv\Scripts\activate
-4. Install dependencies by running on terminal:
+5. Install dependencies by running on terminal:
+   
     pip install -r requirements.txt
-5. Start the Flask web server on terminal:
+7. Start the Flask web server on terminal:
+   
     python app.py
-6. Open your web browser and go to http://localhost:5000 to access the application.
+9. Open your web browser and go to http://localhost:5000 to access the application.
 
 
 Usage:
