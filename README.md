@@ -21,6 +21,7 @@ Deployment:
 
 
 
+
 Installation Instructions:
 
 1. Clone the repository from GitHub: [Repository URL]
@@ -34,24 +35,21 @@ Installation Instructions:
     python app.py
 6. Open your web browser and go to http://localhost:5000 to access the application.
 
+
 Usage:
 
 1. Upload a PDF file containing the document you want to query.
 2. Ask a question related to the document's content.
 3. The system will process the question and return the most relevant sentence from the PDF as the answer.
 
+
 Dependencies:
 
 Python 3.x
-
 Flask
-
 PyMuPDF (fitz)
-
 NLTK (Natural Language Toolkit)
-
 Gensim
-
 Scipy 1.12.0
 
 
