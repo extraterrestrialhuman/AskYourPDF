@@ -31,13 +31,16 @@ Installation Instructions:
     python -m venv venv
    
     venv\Scripts\activate
-5. Install dependencies by running on terminal:
+4. Install dependencies by running on terminal:
    
     pip install -r requirements.txt
-7. Start the Flask web server on terminal:
+5. write on terminal:
+   
+   pip install --force-reinstall pymupdf
+6. Start the Flask web server on terminal:
    
     python app.py
-9. Open your web browser and go to http://localhost:5000 to access the application.
+7. Open your web browser and go to http://localhost:5000 to access the application.
 
 
 Usage:
@@ -49,11 +52,16 @@ Usage:
 
 Dependencies:
 
-Python 3.x
-Flask
-PyMuPDF (fitz)
-NLTK (Natural Language Toolkit)
-Gensim
-Scipy 1.12.0
+python 3.11
+Flask==2.2.2
+fitz
+pymupdf
+nltk==3.6.5
+numpy==1.23.0
+scipy==1.12.0
+gensim==4.3.1
+werkzeug==2.3.7
+frontend
+tools
 
 
