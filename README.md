@@ -11,11 +11,14 @@ Project Pipeline:
 
 Deployment:
 
-<img width="950" alt="image" src="https://github.com/extraterrestrialhuman/AskYourPDF/assets/113041704/e1ef8e0a-9f1c-4aa7-9d2a-979a68929ac1">
+<img width="897" alt="image" src="https://github.com/extraterrestrialhuman/AskYourPDF/assets/113041704/e1ef8e0a-9f1c-4aa7-9d2a-979a68929ac1">
 
-<img width="911" alt="image" src="https://github.com/extraterrestrialhuman/AskYourPDF/assets/113041704/b272d773-1af2-454b-a894-73e964a20e53">
+
+<img width="897" alt="image" src="https://github.com/extraterrestrialhuman/AskYourPDF/assets/113041704/b272d773-1af2-454b-a894-73e964a20e53">
+
 
 <img width="897" alt="image" src="https://github.com/extraterrestrialhuman/AskYourPDF/assets/113041704/2c41fb7a-e188-4ece-a0d5-3c2d1112b53b">
+
 
 
 Installation Instructions:
